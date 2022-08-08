@@ -6,7 +6,7 @@
 int main()
 {
 	
-	char s[1000] ; // Declaration of String
+	char s[1000] ; // Declaration of variable for input 
 	
 	printf("Enter a word:") ;
 	
