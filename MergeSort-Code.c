@@ -1,4 +1,4 @@
-// Merge Sort Program
+// Merge Sort program
 
 #include<stdio.h>
 #include<stdlib.h>
